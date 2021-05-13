@@ -11,7 +11,7 @@ individual level and metro level controls.
 
 The variable of interest is the interaction between a race dummy and the segregation index.
 
-The expect sign of the coefficient is positive, meaning that as a metro becomes less segregated
+The expected sign of the coefficient is positive, meaning that as a metro becomes less segregated
 and the index increases, black income increases.
 
 The result is the expected sign, but the result is insignificant
